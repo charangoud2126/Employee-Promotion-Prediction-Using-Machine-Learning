@@ -23,16 +23,29 @@ Generate a set of insights and recommendations that will help the company
  
 
 Data Dictionary
+
 employee_id: Unique ID for the employee
+
 department: Department of employee
+
 region: Region of employment (unordered)
+
 education: Education Level
+
 gender: Gender of Employee
+
 recruitment_channel: Channel of recruitment for employee
+
 no_ of_ trainings: no of other trainings completed in the previous year on soft skills, technical skills, etc.
+
 age: Age of Employee
+
 previous_ year_ rating: Employee Rating for the previous year
+
 length_ of_ service: Length of service in years
+
 awards_ won: if awards won during the previous year then 1 else 0
+
 avg_ training_ score: Average score in current training evaluations
+
 is_promoted: (Target) Recommended for promotion
